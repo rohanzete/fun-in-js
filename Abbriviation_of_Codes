@@ -1,0 +1,31 @@
+// Topic is inside square brackets.
+
+//functions in javascript
+
+/*
+1.functions are first class citizens in javascript
+2.functions are objects in javascript
+3.functions can be passed as arguments to other functions
+4.functions can be returned from other functions
+*/
+
+// //code 
+// function add(a,b){
+//     return a+b;
+// }
+// let sum=add(2,3);
+
+
+
+
+
+
+
+
+
+
+
+
+//callback function 
+
+//code
